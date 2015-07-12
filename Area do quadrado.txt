@@ -1,8 +1,0 @@
-<?
-public funciton getAreaQuadrado() {
- return $this-> AreaQuadrado;
-}
-public function setAreaQuadrado($lado) {
- $this->AreaQuadrado = $lado * $lado;
-}
-?>
